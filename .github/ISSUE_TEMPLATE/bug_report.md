@@ -7,32 +7,24 @@ assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**Software:**
+Name of the software where the bug was found.
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+**Bug Description:**
+Clearly describe the bug's behaviour. Be as specific as possible.)
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+**Steps to Reproduce:**
+Provide step-by-step instructions for others to replicate the bug. Number each step for clarity.
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+**Additional Information:**
+Device: (Operating system, browser version, phone model, etc.)
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+Severity: (High, Medium, Low - Briefly explain the bug's impact in a comment below this section.)
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+Expected Result: (Describe the behaviour you expected to see if the bug wasn't present.)
 
-**Additional context**
-Add any other context about the problem here.
+Actual Result: (Describe the actual behavior you observed due to the bug.)
+
+Screenshots/Recordings: (Attach screenshots or screen recordings (optional) to demonstrate the bug visually.)
+
+Additional Notes: (Include any other relevant information that might help developers diagnose or fix the bug.)
