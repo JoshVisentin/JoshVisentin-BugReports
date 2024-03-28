@@ -11,7 +11,7 @@ assignees: ''
 Name of the software where the bug was found.
 
 **Bug Description:**
-Clearly describe the bug's behaviour. Be as specific as possible.)
+Clearly describe the bug's behaviour. Be as specific as possible.
 
 **Steps to Reproduce:**
 Provide step-by-step instructions for others to replicate the bug. Number each step for clarity.
